@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/nefariooo/Frontend_CH-2_Bento_Grid)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://magnificientthrush-02-bento-grid.netlify.app/)
 
 ## My process
 
