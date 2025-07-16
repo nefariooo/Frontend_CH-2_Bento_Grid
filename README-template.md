@@ -1,0 +1,77 @@
+# Frontend Mentor - Bento grid solution
+
+This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge) 
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [About](#about)
+
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the interface depending on their device's screen size
+
+### Screenshot
+
+- Desktop Design
+- Resolution above 800px 
+
+![](./screenshots/desktop-design.png)
+
+- Mobile Design
+- Resolution below 800px
+
+![](./screenshots/mobile-design.png)
+
+### Links
+
+- Solution URL: [GitHub]()
+- Live Site URL: [Netlify](https://your-live-site-url.com)
+
+## My process
+
+- Started with HTML, built the structure
+- Styled the HTML with CSS each div at a time
+- First developed the solution for desktop
+- Then, used Media Query to develop the mobile version
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+
+### What I learned
+
+- Learned a lot about Grid. 
+
+### Continued development
+
+- Need to remove more reduntant code, also need to get my hands on some other projects
+
+
+### Useful resources
+
+- [Stack Overflow](https://stackoverflow.com/questions) - Best place to find the answer to every question even the  most basics one too.
+- [W3 School](https://www.w3schools.com/css/default.asp) - Great website for CSS material.
+
+## About
+- Frontend Mentor - [@magnificent_thrush](https://www.frontendmentor.io/profile/magnificentthrush)
+
+
